@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yeswanthgit
 - 👀 I’m interested in ... Full stack development
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...have a mmentor
 - 📫 How to reach me ...https://www.linkedin.com/in/yeswanth-prudhvi-raj-73ba851b0/
 
 <!---
